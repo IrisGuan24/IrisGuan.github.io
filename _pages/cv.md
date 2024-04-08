@@ -11,4 +11,4 @@ redirect_from:
 
 ***
 
-<embed src="{{ base_path }}/files/Xin_Iris_Guan_CV_24.pdf" type="application/pdf" id="fitvid0" style="width:100%;height:80vh">
+<embed src="{{ site.url }}/files/Xin_Iris_Guan_CV_24.pdf" type="application/pdf" id="fitvid0" style="width:100%;height:80vh">
