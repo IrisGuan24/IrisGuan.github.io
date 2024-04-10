@@ -14,8 +14,8 @@ name                     : &name "Xin (Iris) Guan"
 description              : &description "M.A. Student Educational Technology Teachers College, Columbia University
 "
 url                      : "" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/guanxin.github.io" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+baseurl                  : "/IrisGuan.github.io" # the subpath of your site, e.g. "/blog"
+repository               : "IrisGuan24/IrisGuan.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
