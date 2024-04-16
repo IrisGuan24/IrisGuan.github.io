@@ -6,6 +6,8 @@ main:
   - title: "News"
     url: /year-archive/
 
+  - title: "My Life"
+    url: /mylife/
+
   - title: "CV"
     url: /cv/
-    
