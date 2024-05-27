@@ -9,6 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-When Iris is not at college, she is an experience seeker
-
-Outside of research, she spends much time daydreaming and 
+When Iris is not at college, she spends time daydreaming, travelling, swimming and singing in the community choir.
